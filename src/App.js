@@ -1,5 +1,5 @@
 import "./styles/globalStyles.scss";
-import { HomePage } from "./pages/HomePage";
+import { HomePage } from "./pages/homePage";
 
 export const App = () => {
   return (
