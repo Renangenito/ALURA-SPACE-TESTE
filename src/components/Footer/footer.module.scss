@@ -1,0 +1,26 @@
+@import "styles/variables";
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: $azul-rodape;
+  padding: 0 15px 0 15px;
+  max-height: 100vh;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  gap: 32px;
+  padding: 0;
+}
+
+.list img {
+  height: 15px;
+}
+
+footer span {
+  color: $cor-do-texto;
+  font-family: "GandhiSansRegular"
+}

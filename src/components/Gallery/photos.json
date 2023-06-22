@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-1.png",
+    "id": "1",
+    "tag": "Gallaxy"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-2.png",
+    "id": "2",
+    "tag": "Stars"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-3.png",
+    "id": "3",
+    "tag": "Moon"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-4.png",
+    "id": "4",
+    "tag": "Gallaxy"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-5.png",
+    "id": "5",
+    "tag": "Stars"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-6.png",
+    "id": "6",
+    "tag": "Nebulae"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-7.png",
+    "id": "7",
+    "tag": "Gallaxy"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-8.png",
+    "id": "8",
+    "tag": "Nebulae"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-9.png",
+    "id": "9",
+    "tag": "Stars"
+  },
+  {
+    "title": "Photo Name",
+    "credits": "Alura Space",
+    "image": "foto-10.png",
+    "id": "10",
+    "tag": "Stars"
+  }
+]
